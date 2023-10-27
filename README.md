@@ -19,7 +19,7 @@ create interactive and generative work while leading educational programs and di
 across India.
 
 My art practice involves creating immersive installations that use code and sound as primary tools. In
-2018 I created a 3 room sound installation at Goa’s Serendipity Arts Festival using his hand built
+2018 I created a 3 room sound installation at Goa’s Serendipity Arts Festival using hand built
 electromagnetic microphones. In 2021 I presented my first solo show at Experimenter - Hindustan Road which
 showcased 3 works driven by self built hardware and software. In 2023 I was a digital artist in residence
 at India Art Fair in collaboration with Apple, where I showcased an immersive room installation that was
