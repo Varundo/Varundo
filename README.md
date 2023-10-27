@@ -1,4 +1,4 @@
-Hi I'm Varundo, an artist and computer engineer working in the fields of synthesis and interactive design.
+Hi I'm Varun, an artist and computer engineer working in the fields of synthesis and interactive design.
 I've been a teacher and lecturer for both hardware and software platforms as well as a graphic designer,
 coder, musician and synthesizer builder. My video art projects use real-time code-based visualisations that
 make use of custom built microphones, cameras and sensors.
