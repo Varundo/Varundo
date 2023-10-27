@@ -6,7 +6,7 @@ make use of custom built microphones, cameras and sensors.
 I have 17 years of experience working in arts and culture as a promoter, label manager, and producer and 
 have worked on projects in Germany, UK, USA, Poland, Turkey, Switzerland, Portugal and Nepal. 
 
-My company Littlei has been producing concerts and festivals in Kolkata since 2007 and has been responsible for
+In 2007 I founded 'Littlei' to produce concerts and festivals in Kolkata and it has been responsible for
 developing new art and music traditions in the city. As a musician, composer and educator I've been
 involved in trans-cultural projects and residencies and has created works that are responsive to the
 technological advances of the digital age. I'm also the founder of Synthfarm, India’s leading residency for
